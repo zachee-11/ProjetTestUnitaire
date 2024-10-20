@@ -1,0 +1,1 @@
+Ce projet décrit comment créer des tests unitaires pour une classe Java avec JUnit 4 dans IntelliJ IDEA Community Edition. Il illustre également l'utilisation de tests unitaires pour la classe Person avec des méthodes setName et setYears.
